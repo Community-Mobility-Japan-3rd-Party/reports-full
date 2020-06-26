@@ -1,0 +1,1036 @@
+{
+  "Miyagi": {
+    "2020-02-15": {
+      "retailAndRecreation": "-2",
+      "groceryAndPharmacy": "4",
+      "parks": "19",
+      "transitStations": "-3",
+      "workplaces": "4",
+      "residential": "0"
+    },
+    "2020-02-16": {
+      "retailAndRecreation": "-8",
+      "groceryAndPharmacy": "-4",
+      "parks": "-35",
+      "transitStations": "-15",
+      "workplaces": "-1",
+      "residential": "3"
+    },
+    "2020-02-17": {
+      "retailAndRecreation": "-2",
+      "groceryAndPharmacy": "1",
+      "parks": "1",
+      "transitStations": "1",
+      "workplaces": "0",
+      "residential": "1"
+    },
+    "2020-02-18": {
+      "retailAndRecreation": "-1",
+      "groceryAndPharmacy": "0",
+      "parks": "-6",
+      "transitStations": "-2",
+      "workplaces": "0",
+      "residential": "1"
+    },
+    "2020-02-19": {
+      "retailAndRecreation": "6",
+      "groceryAndPharmacy": "5",
+      "parks": "15",
+      "transitStations": "-1",
+      "workplaces": "1",
+      "residential": "0"
+    },
+    "2020-02-20": {
+      "retailAndRecreation": "3",
+      "groceryAndPharmacy": "5",
+      "parks": "11",
+      "transitStations": "-3",
+      "workplaces": "1",
+      "residential": "1"
+    },
+    "2020-02-21": {
+      "retailAndRecreation": "-1",
+      "groceryAndPharmacy": "1",
+      "parks": "8",
+      "transitStations": "-2",
+      "workplaces": "0",
+      "residential": "1"
+    },
+    "2020-02-22": {
+      "retailAndRecreation": "-2",
+      "groceryAndPharmacy": "4",
+      "parks": "16",
+      "transitStations": "2",
+      "workplaces": "-1",
+      "residential": "1"
+    },
+    "2020-02-23": {
+      "retailAndRecreation": "0",
+      "groceryAndPharmacy": "0",
+      "parks": "-27",
+      "transitStations": "-6",
+      "workplaces": "0",
+      "residential": "1"
+    },
+    "2020-02-24": {
+      "retailAndRecreation": "26",
+      "groceryAndPharmacy": "6",
+      "parks": "23",
+      "transitStations": "-19",
+      "workplaces": "-56",
+      "residential": "16"
+    },
+    "2020-02-25": {
+      "retailAndRecreation": "0",
+      "groceryAndPharmacy": "5",
+      "parks": "0",
+      "transitStations": "0",
+      "workplaces": "1",
+      "residential": "0"
+    },
+    "2020-02-26": {
+      "retailAndRecreation": "3",
+      "groceryAndPharmacy": "6",
+      "parks": "3",
+      "transitStations": "-3",
+      "workplaces": "2",
+      "residential": "0"
+    },
+    "2020-02-27": {
+      "retailAndRecreation": "0",
+      "groceryAndPharmacy": "6",
+      "parks": "3",
+      "transitStations": "-7",
+      "workplaces": "1",
+      "residential": "1"
+    },
+    "2020-02-28": {
+      "retailAndRecreation": "0",
+      "groceryAndPharmacy": "13",
+      "parks": "0",
+      "transitStations": "-14",
+      "workplaces": "2",
+      "residential": "2"
+    },
+    "2020-02-29": {
+      "retailAndRecreation": "-8",
+      "groceryAndPharmacy": "17",
+      "parks": "-5",
+      "transitStations": "-27",
+      "workplaces": "7",
+      "residential": "3"
+    },
+    "2020-03-01": {
+      "retailAndRecreation": "-10",
+      "groceryAndPharmacy": "13",
+      "parks": "-3",
+      "transitStations": "-30",
+      "workplaces": "6",
+      "residential": "3"
+    },
+    "2020-03-02": {
+      "retailAndRecreation": "-12",
+      "groceryAndPharmacy": "1",
+      "parks": "-18",
+      "transitStations": "-21",
+      "workplaces": "-2",
+      "residential": "4"
+    },
+    "2020-03-03": {
+      "retailAndRecreation": "-3",
+      "groceryAndPharmacy": "8",
+      "parks": "4",
+      "transitStations": "-22",
+      "workplaces": "-2",
+      "residential": "3"
+    },
+    "2020-03-04": {
+      "retailAndRecreation": "-6",
+      "groceryAndPharmacy": "3",
+      "parks": "0",
+      "transitStations": "-22",
+      "workplaces": "-3",
+      "residential": "4"
+    },
+    "2020-03-05": {
+      "retailAndRecreation": "-6",
+      "groceryAndPharmacy": "2",
+      "parks": "-3",
+      "transitStations": "-23",
+      "workplaces": "-3",
+      "residential": "4"
+    },
+    "2020-03-06": {
+      "retailAndRecreation": "-10",
+      "groceryAndPharmacy": "-1",
+      "parks": "-4",
+      "transitStations": "-25",
+      "workplaces": "-3",
+      "residential": "5"
+    },
+    "2020-03-07": {
+      "retailAndRecreation": "-10",
+      "groceryAndPharmacy": "4",
+      "parks": "15",
+      "transitStations": "-29",
+      "workplaces": "-2",
+      "residential": "4"
+    },
+    "2020-03-08": {
+      "retailAndRecreation": "-13",
+      "groceryAndPharmacy": "-3",
+      "parks": "-39",
+      "transitStations": "-35",
+      "workplaces": "-4",
+      "residential": "5"
+    },
+    "2020-03-09": {
+      "retailAndRecreation": "-6",
+      "groceryAndPharmacy": "1",
+      "parks": "6",
+      "transitStations": "-19",
+      "workplaces": "-3",
+      "residential": "4"
+    },
+    "2020-03-10": {
+      "retailAndRecreation": "-10",
+      "groceryAndPharmacy": "-4",
+      "parks": "-25",
+      "transitStations": "-23",
+      "workplaces": "-5",
+      "residential": "5"
+    },
+    "2020-03-11": {
+      "retailAndRecreation": "5",
+      "groceryAndPharmacy": "8",
+      "parks": "27",
+      "transitStations": "-19",
+      "workplaces": "-4",
+      "residential": "3"
+    },
+    "2020-03-12": {
+      "retailAndRecreation": "2",
+      "groceryAndPharmacy": "6",
+      "parks": "21",
+      "transitStations": "-19",
+      "workplaces": "-3",
+      "residential": "3"
+    },
+    "2020-03-13": {
+      "retailAndRecreation": "-4",
+      "groceryAndPharmacy": "3",
+      "parks": "15",
+      "transitStations": "-21",
+      "workplaces": "-4",
+      "residential": "4"
+    },
+    "2020-03-14": {
+      "retailAndRecreation": "-6",
+      "groceryAndPharmacy": "3",
+      "parks": "-6",
+      "transitStations": "-25",
+      "workplaces": "-5",
+      "residential": "4"
+    },
+    "2020-03-15": {
+      "retailAndRecreation": "-4",
+      "groceryAndPharmacy": "5",
+      "parks": "21",
+      "transitStations": "-26",
+      "workplaces": "-2",
+      "residential": "3"
+    },
+    "2020-03-16": {
+      "retailAndRecreation": "-2",
+      "groceryAndPharmacy": "1",
+      "parks": "1",
+      "transitStations": "-16",
+      "workplaces": "-3",
+      "residential": "3"
+    },
+    "2020-03-17": {
+      "retailAndRecreation": "-1",
+      "groceryAndPharmacy": "1",
+      "parks": "6",
+      "transitStations": "-19",
+      "workplaces": "-4",
+      "residential": "3"
+    },
+    "2020-03-18": {
+      "retailAndRecreation": "6",
+      "groceryAndPharmacy": "7",
+      "parks": "32",
+      "transitStations": "-15",
+      "workplaces": "-2",
+      "residential": "2"
+    },
+    "2020-03-19": {
+      "retailAndRecreation": "14",
+      "groceryAndPharmacy": "9",
+      "parks": "39",
+      "transitStations": "-10",
+      "workplaces": "-4",
+      "residential": "1"
+    },
+    "2020-03-20": {
+      "retailAndRecreation": "12",
+      "groceryAndPharmacy": "5",
+      "parks": "7",
+      "transitStations": "-35",
+      "workplaces": "-56",
+      "residential": "19"
+    },
+    "2020-03-21": {
+      "retailAndRecreation": "-3",
+      "groceryAndPharmacy": "5",
+      "parks": "33",
+      "transitStations": "-11",
+      "workplaces": "-7",
+      "residential": "2"
+    },
+    "2020-03-22": {
+      "retailAndRecreation": "-6",
+      "groceryAndPharmacy": "2",
+      "parks": "-5",
+      "transitStations": "-19",
+      "workplaces": "-2",
+      "residential": "2"
+    },
+    "2020-03-23": {
+      "retailAndRecreation": "-1",
+      "groceryAndPharmacy": "0",
+      "parks": "11",
+      "transitStations": "-15",
+      "workplaces": "-4",
+      "residential": "3"
+    },
+    "2020-03-24": {
+      "retailAndRecreation": "2",
+      "groceryAndPharmacy": "1",
+      "parks": "6",
+      "transitStations": "-16",
+      "workplaces": "-3",
+      "residential": "3"
+    },
+    "2020-03-25": {
+      "retailAndRecreation": "11",
+      "groceryAndPharmacy": "11",
+      "parks": "28",
+      "transitStations": "-13",
+      "workplaces": "-3",
+      "residential": "2"
+    },
+    "2020-03-26": {
+      "retailAndRecreation": "6",
+      "groceryAndPharmacy": "10",
+      "parks": "29",
+      "transitStations": "-16",
+      "workplaces": "-4",
+      "residential": "3"
+    },
+    "2020-03-27": {
+      "retailAndRecreation": "-2",
+      "groceryAndPharmacy": "5",
+      "parks": "13",
+      "transitStations": "-20",
+      "workplaces": "-4",
+      "residential": "4"
+    },
+    "2020-03-28": {
+      "retailAndRecreation": "-7",
+      "groceryAndPharmacy": "6",
+      "parks": "9",
+      "transitStations": "-25",
+      "workplaces": "-2",
+      "residential": "4"
+    },
+    "2020-03-29": {
+      "retailAndRecreation": "-14",
+      "groceryAndPharmacy": "0",
+      "parks": "-37",
+      "transitStations": "-35",
+      "workplaces": "-2",
+      "residential": "5"
+    },
+    "2020-03-30": {
+      "retailAndRecreation": "0",
+      "groceryAndPharmacy": "3",
+      "parks": "15",
+      "transitStations": "-18",
+      "workplaces": "-5",
+      "residential": "4"
+    },
+    "2020-03-31": {
+      "retailAndRecreation": "-2",
+      "groceryAndPharmacy": "5",
+      "parks": "18",
+      "transitStations": "-22",
+      "workplaces": "-4",
+      "residential": "4"
+    },
+    "2020-04-01": {
+      "retailAndRecreation": "-9",
+      "groceryAndPharmacy": "6",
+      "parks": "5",
+      "transitStations": "-25",
+      "workplaces": "-6",
+      "residential": "5"
+    },
+    "2020-04-02": {
+      "retailAndRecreation": "-11",
+      "groceryAndPharmacy": "4",
+      "parks": "-2",
+      "transitStations": "-29",
+      "workplaces": "-9",
+      "residential": "7"
+    },
+    "2020-04-03": {
+      "retailAndRecreation": "-13",
+      "groceryAndPharmacy": "6",
+      "parks": "31",
+      "transitStations": "-29",
+      "workplaces": "-9",
+      "residential": "6"
+    },
+    "2020-04-04": {
+      "retailAndRecreation": "-28",
+      "groceryAndPharmacy": "4",
+      "parks": "27",
+      "transitStations": "-47",
+      "workplaces": "-13",
+      "residential": "9"
+    },
+    "2020-04-05": {
+      "retailAndRecreation": "-31",
+      "groceryAndPharmacy": "0",
+      "parks": "-2",
+      "transitStations": "-54",
+      "workplaces": "-16",
+      "residential": "9"
+    },
+    "2020-04-06": {
+      "retailAndRecreation": "-15",
+      "groceryAndPharmacy": "2",
+      "parks": "9",
+      "transitStations": "-28",
+      "workplaces": "-9",
+      "residential": "6"
+    },
+    "2020-04-07": {
+      "retailAndRecreation": "-15",
+      "groceryAndPharmacy": "3",
+      "parks": "23",
+      "transitStations": "-32",
+      "workplaces": "-11",
+      "residential": "7"
+    },
+    "2020-04-08": {
+      "retailAndRecreation": "-13",
+      "groceryAndPharmacy": "6",
+      "parks": "42",
+      "transitStations": "-32",
+      "workplaces": "-12",
+      "residential": "7"
+    },
+    "2020-04-09": {
+      "retailAndRecreation": "-18",
+      "groceryAndPharmacy": "2",
+      "parks": "26",
+      "transitStations": "-36",
+      "workplaces": "-12",
+      "residential": "8"
+    },
+    "2020-04-10": {
+      "retailAndRecreation": "-22",
+      "groceryAndPharmacy": "5",
+      "parks": "6",
+      "transitStations": "-39",
+      "workplaces": "-12",
+      "residential": "9"
+    },
+    "2020-04-11": {
+      "retailAndRecreation": "-30",
+      "groceryAndPharmacy": "3",
+      "parks": "30",
+      "transitStations": "-52",
+      "workplaces": "-20",
+      "residential": "10"
+    },
+    "2020-04-12": {
+      "retailAndRecreation": "-33",
+      "groceryAndPharmacy": "0",
+      "parks": "32",
+      "transitStations": "-56",
+      "workplaces": "-18",
+      "residential": "9"
+    },
+    "2020-04-13": {
+      "retailAndRecreation": "-33",
+      "groceryAndPharmacy": "-13",
+      "parks": "-37",
+      "transitStations": "-40",
+      "workplaces": "-14",
+      "residential": "11"
+    },
+    "2020-04-14": {
+      "retailAndRecreation": "-20",
+      "groceryAndPharmacy": "1",
+      "parks": "-3",
+      "transitStations": "-40",
+      "workplaces": "-13",
+      "residential": "9"
+    },
+    "2020-04-15": {
+      "retailAndRecreation": "-13",
+      "groceryAndPharmacy": "12",
+      "parks": "39",
+      "transitStations": "-37",
+      "workplaces": "-12",
+      "residential": "8"
+    },
+    "2020-04-16": {
+      "retailAndRecreation": "-20",
+      "groceryAndPharmacy": "5",
+      "parks": "18",
+      "transitStations": "-40",
+      "workplaces": "-14",
+      "residential": "9"
+    },
+    "2020-04-17": {
+      "retailAndRecreation": "-24",
+      "groceryAndPharmacy": "6",
+      "parks": "11",
+      "transitStations": "-43",
+      "workplaces": "-14",
+      "residential": "11"
+    },
+    "2020-04-18": {
+      "retailAndRecreation": "-51",
+      "groceryAndPharmacy": "-19",
+      "parks": "-55",
+      "transitStations": "-66",
+      "workplaces": "-22",
+      "residential": "15"
+    },
+    "2020-04-19": {
+      "retailAndRecreation": "-43",
+      "groceryAndPharmacy": "-7",
+      "parks": "-33",
+      "transitStations": "-65",
+      "workplaces": "-22",
+      "residential": "12"
+    },
+    "2020-04-20": {
+      "retailAndRecreation": "-33",
+      "groceryAndPharmacy": "-7",
+      "parks": "-34",
+      "transitStations": "-46",
+      "workplaces": "-17",
+      "residential": "12"
+    },
+    "2020-04-21": {
+      "retailAndRecreation": "-28",
+      "groceryAndPharmacy": "-2",
+      "parks": "-1",
+      "transitStations": "-46",
+      "workplaces": "-18",
+      "residential": "11"
+    },
+    "2020-04-22": {
+      "retailAndRecreation": "-26",
+      "groceryAndPharmacy": "1",
+      "parks": "9",
+      "transitStations": "-48",
+      "workplaces": "-18",
+      "residential": "11"
+    },
+    "2020-04-23": {
+      "retailAndRecreation": "-30",
+      "groceryAndPharmacy": "-2",
+      "parks": "-1",
+      "transitStations": "-49",
+      "workplaces": "-19",
+      "residential": "12"
+    },
+    "2020-04-24": {
+      "retailAndRecreation": "-32",
+      "groceryAndPharmacy": "1",
+      "parks": "-5",
+      "transitStations": "-50",
+      "workplaces": "-20",
+      "residential": "14"
+    },
+    "2020-04-25": {
+      "retailAndRecreation": "-40",
+      "groceryAndPharmacy": "-3",
+      "parks": "3",
+      "transitStations": "-58",
+      "workplaces": "-25",
+      "residential": "13"
+    },
+    "2020-04-26": {
+      "retailAndRecreation": "-43",
+      "groceryAndPharmacy": "-8",
+      "parks": "-8",
+      "transitStations": "-63",
+      "workplaces": "-27",
+      "residential": "12"
+    },
+    "2020-04-27": {
+      "retailAndRecreation": "-29",
+      "groceryAndPharmacy": "-2",
+      "parks": "9",
+      "transitStations": "-47",
+      "workplaces": "-22",
+      "residential": "13"
+    },
+    "2020-04-28": {
+      "retailAndRecreation": "-25",
+      "groceryAndPharmacy": "0",
+      "parks": "3",
+      "transitStations": "-48",
+      "workplaces": "-23",
+      "residential": "12"
+    },
+    "2020-04-29": {
+      "retailAndRecreation": "-21",
+      "groceryAndPharmacy": "-2",
+      "parks": "36",
+      "transitStations": "-66",
+      "workplaces": "-64",
+      "residential": "22"
+    },
+    "2020-04-30": {
+      "retailAndRecreation": "-25",
+      "groceryAndPharmacy": "3",
+      "parks": "16",
+      "transitStations": "-51",
+      "workplaces": "-27",
+      "residential": "15"
+    },
+    "2020-05-01": {
+      "retailAndRecreation": "-32",
+      "groceryAndPharmacy": "1",
+      "parks": "6",
+      "transitStations": "-55",
+      "workplaces": "-31",
+      "residential": "18"
+    },
+    "2020-05-02": {
+      "retailAndRecreation": "-42",
+      "groceryAndPharmacy": "-6",
+      "parks": "5",
+      "transitStations": "-61",
+      "workplaces": "-31",
+      "residential": "15"
+    },
+    "2020-05-03": {
+      "retailAndRecreation": "-41",
+      "groceryAndPharmacy": "-8",
+      "parks": "7",
+      "transitStations": "-62",
+      "workplaces": "-31",
+      "residential": "11"
+    },
+    "2020-05-04": {
+      "retailAndRecreation": "-18",
+      "groceryAndPharmacy": "-5",
+      "parks": "28",
+      "transitStations": "-67",
+      "workplaces": "-74",
+      "residential": "29"
+    },
+    "2020-05-05": {
+      "retailAndRecreation": "-15",
+      "groceryAndPharmacy": "1",
+      "parks": "34",
+      "transitStations": "-66",
+      "workplaces": "-74",
+      "residential": "29"
+    },
+    "2020-05-06": {
+      "retailAndRecreation": "-24",
+      "groceryAndPharmacy": "-6",
+      "parks": "-13",
+      "transitStations": "-70",
+      "workplaces": "-72",
+      "residential": "29"
+    },
+    "2020-05-07": {
+      "retailAndRecreation": "-26",
+      "groceryAndPharmacy": "-1",
+      "parks": "9",
+      "transitStations": "-47",
+      "workplaces": "-20",
+      "residential": "12"
+    },
+    "2020-05-08": {
+      "retailAndRecreation": "-29",
+      "groceryAndPharmacy": "-2",
+      "parks": "16",
+      "transitStations": "-50",
+      "workplaces": "-21",
+      "residential": "14"
+    },
+    "2020-05-09": {
+      "retailAndRecreation": "-33",
+      "groceryAndPharmacy": "-4",
+      "parks": "9",
+      "transitStations": "-55",
+      "workplaces": "-18",
+      "residential": "11"
+    },
+    "2020-05-10": {
+      "retailAndRecreation": "-32",
+      "groceryAndPharmacy": "-4",
+      "parks": "-27",
+      "transitStations": "-60",
+      "workplaces": "-20",
+      "residential": "10"
+    },
+    "2020-05-11": {
+      "retailAndRecreation": "-25",
+      "groceryAndPharmacy": "-5",
+      "parks": "8",
+      "transitStations": "-40",
+      "workplaces": "-15",
+      "residential": "10"
+    },
+    "2020-05-12": {
+      "retailAndRecreation": "-24",
+      "groceryAndPharmacy": "-4",
+      "parks": "0",
+      "transitStations": "-42",
+      "workplaces": "-16",
+      "residential": "10"
+    },
+    "2020-05-13": {
+      "retailAndRecreation": "-17",
+      "groceryAndPharmacy": "2",
+      "parks": "19",
+      "transitStations": "-41",
+      "workplaces": "-16",
+      "residential": "9"
+    },
+    "2020-05-14": {
+      "retailAndRecreation": "-22",
+      "groceryAndPharmacy": "0",
+      "parks": "15",
+      "transitStations": "-42",
+      "workplaces": "-15",
+      "residential": "10"
+    },
+    "2020-05-15": {
+      "retailAndRecreation": "-24",
+      "groceryAndPharmacy": "0",
+      "parks": "10",
+      "transitStations": "-44",
+      "workplaces": "-16",
+      "residential": "11"
+    },
+    "2020-05-16": {
+      "retailAndRecreation": "-27",
+      "groceryAndPharmacy": "-2",
+      "parks": "2",
+      "transitStations": "-49",
+      "workplaces": "-16",
+      "residential": "10"
+    },
+    "2020-05-17": {
+      "retailAndRecreation": "-26",
+      "groceryAndPharmacy": "-3",
+      "parks": "13",
+      "transitStations": "-49",
+      "workplaces": "-17",
+      "residential": "8"
+    },
+    "2020-05-18": {
+      "retailAndRecreation": "-24",
+      "groceryAndPharmacy": "-7",
+      "parks": "-10",
+      "transitStations": "-37",
+      "workplaces": "-14",
+      "residential": "10"
+    },
+    "2020-05-19": {
+      "retailAndRecreation": "-32",
+      "groceryAndPharmacy": "-13",
+      "parks": "-42",
+      "transitStations": "-43",
+      "workplaces": "-16",
+      "residential": "12"
+    },
+    "2020-05-20": {
+      "retailAndRecreation": "-16",
+      "groceryAndPharmacy": "5",
+      "parks": "-21",
+      "transitStations": "-40",
+      "workplaces": "-14",
+      "residential": "10"
+    },
+    "2020-05-21": {
+      "retailAndRecreation": "-21",
+      "groceryAndPharmacy": "-1",
+      "parks": "-10",
+      "transitStations": "-39",
+      "workplaces": "-14",
+      "residential": "10"
+    },
+    "2020-05-22": {
+      "retailAndRecreation": "-22",
+      "groceryAndPharmacy": "-2",
+      "parks": "-6",
+      "transitStations": "-41",
+      "workplaces": "-14",
+      "residential": "11"
+    },
+    "2020-05-23": {
+      "retailAndRecreation": "-25",
+      "groceryAndPharmacy": "-4",
+      "parks": "-32",
+      "transitStations": "-50",
+      "workplaces": "-18",
+      "residential": "11"
+    },
+    "2020-05-24": {
+      "retailAndRecreation": "-20",
+      "groceryAndPharmacy": "0",
+      "parks": "23",
+      "transitStations": "-44",
+      "workplaces": "-14",
+      "residential": "7"
+    },
+    "2020-05-25": {
+      "retailAndRecreation": "-17",
+      "groceryAndPharmacy": "0",
+      "parks": "8",
+      "transitStations": "-33",
+      "workplaces": "-13",
+      "residential": "8"
+    },
+    "2020-05-26": {
+      "retailAndRecreation": "-14",
+      "groceryAndPharmacy": "0",
+      "parks": "5",
+      "transitStations": "-35",
+      "workplaces": "-12",
+      "residential": "8"
+    },
+    "2020-05-27": {
+      "retailAndRecreation": "-9",
+      "groceryAndPharmacy": "6",
+      "parks": "21",
+      "transitStations": "-34",
+      "workplaces": "-11",
+      "residential": "7"
+    },
+    "2020-05-28": {
+      "retailAndRecreation": "-13",
+      "groceryAndPharmacy": "2",
+      "parks": "19",
+      "transitStations": "-35",
+      "workplaces": "-11",
+      "residential": "8"
+    },
+    "2020-05-29": {
+      "retailAndRecreation": "-16",
+      "groceryAndPharmacy": "1",
+      "parks": "14",
+      "transitStations": "-35",
+      "workplaces": "-12",
+      "residential": "9"
+    },
+    "2020-05-30": {
+      "retailAndRecreation": "-15",
+      "groceryAndPharmacy": "4",
+      "parks": "24",
+      "transitStations": "-38",
+      "workplaces": "-12",
+      "residential": "6"
+    },
+    "2020-05-31": {
+      "retailAndRecreation": "-15",
+      "groceryAndPharmacy": "2",
+      "parks": "18",
+      "transitStations": "-39",
+      "workplaces": "-11",
+      "residential": "6"
+    },
+    "2020-06-01": {
+      "retailAndRecreation": "-16",
+      "groceryAndPharmacy": "0",
+      "parks": "2",
+      "transitStations": "-27",
+      "workplaces": "-8",
+      "residential": "6"
+    },
+    "2020-06-02": {
+      "retailAndRecreation": "-13",
+      "groceryAndPharmacy": "-1",
+      "parks": "5",
+      "transitStations": "-29",
+      "workplaces": "-9",
+      "residential": "6"
+    },
+    "2020-06-03": {
+      "retailAndRecreation": "-9",
+      "groceryAndPharmacy": "5",
+      "parks": "25",
+      "transitStations": "-27",
+      "workplaces": "-8",
+      "residential": "5"
+    },
+    "2020-06-04": {
+      "retailAndRecreation": "-13",
+      "groceryAndPharmacy": "0",
+      "parks": "13",
+      "transitStations": "-28",
+      "workplaces": "-9",
+      "residential": "6"
+    },
+    "2020-06-05": {
+      "retailAndRecreation": "-15",
+      "groceryAndPharmacy": "-1",
+      "parks": "4",
+      "transitStations": "-30",
+      "workplaces": "-10",
+      "residential": "7"
+    },
+    "2020-06-06": {
+      "retailAndRecreation": "-13",
+      "groceryAndPharmacy": "3",
+      "parks": "27",
+      "transitStations": "-35",
+      "workplaces": "-13",
+      "residential": "6"
+    },
+    "2020-06-07": {
+      "retailAndRecreation": "-11",
+      "groceryAndPharmacy": "3",
+      "parks": "29",
+      "transitStations": "-36",
+      "workplaces": "-13",
+      "residential": "4"
+    },
+    "2020-06-08": {
+      "retailAndRecreation": "-13",
+      "groceryAndPharmacy": "-3",
+      "parks": "10",
+      "transitStations": "-25",
+      "workplaces": "-7",
+      "residential": "5"
+    },
+    "2020-06-09": {
+      "retailAndRecreation": "-11",
+      "groceryAndPharmacy": "-2",
+      "parks": "9",
+      "transitStations": "-27",
+      "workplaces": "-8",
+      "residential": "5"
+    },
+    "2020-06-10": {
+      "retailAndRecreation": "-5",
+      "groceryAndPharmacy": "7",
+      "parks": "26",
+      "transitStations": "-25",
+      "workplaces": "-7",
+      "residential": "4"
+    },
+    "2020-06-11": {
+      "retailAndRecreation": "-11",
+      "groceryAndPharmacy": "0",
+      "parks": "7",
+      "transitStations": "-27",
+      "workplaces": "-8",
+      "residential": "6"
+    },
+    "2020-06-12": {
+      "retailAndRecreation": "-12",
+      "groceryAndPharmacy": "1",
+      "parks": "7",
+      "transitStations": "-29",
+      "workplaces": "-10",
+      "residential": "6"
+    },
+    "2020-06-13": {
+      "retailAndRecreation": "-9",
+      "groceryAndPharmacy": "3",
+      "parks": "23",
+      "transitStations": "-32",
+      "workplaces": "-17",
+      "residential": "6"
+    },
+    "2020-06-14": {
+      "retailAndRecreation": "-12",
+      "groceryAndPharmacy": "-2",
+      "parks": "1",
+      "transitStations": "-38",
+      "workplaces": "-13",
+      "residential": "5"
+    },
+    "2020-06-15": {
+      "retailAndRecreation": "-9",
+      "groceryAndPharmacy": "2",
+      "parks": "5",
+      "transitStations": "-23",
+      "workplaces": "-7",
+      "residential": "5"
+    },
+    "2020-06-16": {
+      "retailAndRecreation": "-8",
+      "groceryAndPharmacy": "1",
+      "parks": "6",
+      "transitStations": "-25",
+      "workplaces": "-7",
+      "residential": "5"
+    },
+    "2020-06-17": {
+      "retailAndRecreation": "-2",
+      "groceryAndPharmacy": "6",
+      "parks": "30",
+      "transitStations": "-23",
+      "workplaces": "-6",
+      "residential": "4"
+    },
+    "2020-06-18": {
+      "retailAndRecreation": "-8",
+      "groceryAndPharmacy": "2",
+      "parks": "20",
+      "transitStations": "-24",
+      "workplaces": "-7",
+      "residential": "5"
+    },
+    "2020-06-19": {
+      "retailAndRecreation": "-11",
+      "groceryAndPharmacy": "-1",
+      "parks": "-6",
+      "transitStations": "-25",
+      "workplaces": "-9",
+      "residential": "7"
+    },
+    "2020-06-20": {
+      "retailAndRecreation": "-6",
+      "groceryAndPharmacy": "7",
+      "parks": "25",
+      "transitStations": "-26",
+      "workplaces": "-11",
+      "residential": "3"
+    },
+    "2020-06-21": {
+      "retailAndRecreation": "-6",
+      "groceryAndPharmacy": "3",
+      "parks": "30",
+      "transitStations": "-27",
+      "workplaces": "-11",
+      "residential": "3"
+    },
+    "2020-06-22": {
+      "retailAndRecreation": "-11",
+      "groceryAndPharmacy": "-3",
+      "parks": "4",
+      "transitStations": "-20",
+      "workplaces": "-7",
+      "residential": "5"
+    }
+  }
+}
